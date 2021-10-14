@@ -1,2 +1,2 @@
-# linear-poly-multiple-regressions
-Solve regressions which are including repository name from scratch.
+Solve regressions which names are linear, polynomial, and multiple variable with linear algebra.
+Gradient descent. 
